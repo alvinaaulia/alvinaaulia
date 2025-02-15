@@ -1,4 +1,9 @@
-## Hi there 👋
+## Hallo semua! 👋 <br>
+
+Perkenalkan nama saya Alvina Aulia Nisa.<br>
+Saya adalah seorang mahasiswa Jurusan Bisnis dan Informatika di Politeknik Negeri Banyuwangi.<br>
+Saat ini sayang sedang berusaha untuk menjadi developer yang berkualitas dengan mengikuti <br>
+program Coding Camp by DBS Foundation dari Dicoding.
 
 <!--
 **alvinaaulia/alvinaaulia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
