@@ -10,18 +10,44 @@ Saya memiliki ketertarikan pada bidang **Machine Learning** dan cukup mahir dala
 
 ### 🚀 Kemampuan Bahasa Pemrograman (berdasarkan pengalaman)
 
-| Bahasa       | Persentase |
-|--------------|------------|
-| 🐍 Python     | 50%        |
-| 🐘 PHP        | 30%        |
-| ☕ Java        | 5%         |
-| 🌐 JavaScript | 15%        |
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,php,java,javascript&theme=dark" />
-</p>
-
----
+<table>
+  <tr>
+    <td>🐍 Python</td>
+    <td>
+      <div style="background-color:#444;width:200px;height:10px;border-radius:5px;">
+        <div style="background-color:#4CAF50;width:50%;height:100%;border-radius:5px;"></div>
+      </div>
+    </td>
+    <td>50%</td>
+  </tr>
+  <tr>
+    <td>🐘 PHP</td>
+    <td>
+      <div style="background-color:#444;width:200px;height:10px;border-radius:5px;">
+        <div style="background-color:#2196F3;width:30%;height:100%;border-radius:5px;"></div>
+      </div>
+    </td>
+    <td>30%</td>
+  </tr>
+  <tr>
+    <td>☕ Java</td>
+    <td>
+      <div style="background-color:#444;width:200px;height:10px;border-radius:5px;">
+        <div style="background-color:#f44336;width:5%;height:100%;border-radius:5px;"></div>
+      </div>
+    </td>
+    <td>5%</td>
+  </tr>
+  <tr>
+    <td>🌐 JavaScript</td>
+    <td>
+      <div style="background-color:#444;width:200px;height:10px;border-radius:5px;">
+        <div style="background-color:#FFEB3B;width:15%;height:100%;border-radius:5px;"></div>
+      </div>
+    </td>
+    <td>15%</td>
+  </tr>
+</table>
 
 ### 📊 GitHub Statistik
 
