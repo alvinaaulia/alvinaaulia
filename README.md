@@ -10,24 +10,24 @@ Saya memiliki ketertarikan pada bidang **Machine Learning** dan cukup mahir dala
 
 ### 🚀 Kemampuan Bahasa Pemrograman (berdasarkan pengalaman)
 
-<h4>🐍 Python (50%)</h4>
-<div style="background-color:#ddd; border-radius:5px; width:100%; max-width:400px;">
-  <div style="width:50%; background-color:#3572A5; color:white; padding:4px 0; text-align:center; border-radius:5px;">50%</div>
+<p><strong>🐍 Python</strong></p>
+<div style="background: #e1e4e8; width: 100%; max-width: 400px;">
+  <div style="background: #3572A5; width: 50%; color: white; padding: 3px;">50%</div>
 </div>
 
-<h4>🐘 PHP (30%)</h4>
-<div style="background-color:#ddd; border-radius:5px; width:100%; max-width:400px;">
-  <div style="width:30%; background-color:#8892BE; color:white; padding:4px 0; text-align:center; border-radius:5px;">30%</div>
+<p><strong>🐘 PHP</strong></p>
+<div style="background: #e1e4e8; width: 100%; max-width: 400px;">
+  <div style="background: #8892BE; width: 30%; color: white; padding: 3px;">30%</div>
 </div>
 
-<h4>☕ Java (5%)</h4>
-<div style="background-color:#ddd; border-radius:5px; width:100%; max-width:400px;">
-  <div style="width:5%; background-color:#b07219; color:white; padding:4px 0; text-align:center; border-radius:5px;">5%</div>
+<p><strong>☕ Java</strong></p>
+<div style="background: #e1e4e8; width: 100%; max-width: 400px;">
+  <div style="background: #b07219; width: 5%; color: white; padding: 3px;">5%</div>
 </div>
 
-<h4>🌐 JavaScript (15%)</h4>
-<div style="background-color:#ddd; border-radius:5px; width:100%; max-width:400px;">
-  <div style="width:15%; background-color:#f1e05a; color:black; padding:4px 0; text-align:center; border-radius:5px;">15%</div>
+<p><strong>🌐 JavaScript</strong></p>
+<div style="background: #e1e4e8; width: 100%; max-width: 400px;">
+  <div style="background: #f1e05a; width: 15%; color: black; padding: 3px;">15%</div>
 </div>
 
 ### 📊 GitHub Statistik
