@@ -10,44 +10,25 @@ Saya memiliki ketertarikan pada bidang **Machine Learning** dan cukup mahir dala
 
 ### 🚀 Kemampuan Bahasa Pemrograman (berdasarkan pengalaman)
 
-<table>
-  <tr>
-    <td>🐍 Python</td>
-    <td>
-      <div style="background-color:#444;width:200px;height:10px;border-radius:5px;">
-        <div style="background-color:#4CAF50;width:50%;height:100%;border-radius:5px;"></div>
-      </div>
-    </td>
-    <td>50%</td>
-  </tr>
-  <tr>
-    <td>🐘 PHP</td>
-    <td>
-      <div style="background-color:#444;width:200px;height:10px;border-radius:5px;">
-        <div style="background-color:#2196F3;width:30%;height:100%;border-radius:5px;"></div>
-      </div>
-    </td>
-    <td>30%</td>
-  </tr>
-  <tr>
-    <td>☕ Java</td>
-    <td>
-      <div style="background-color:#444;width:200px;height:10px;border-radius:5px;">
-        <div style="background-color:#f44336;width:5%;height:100%;border-radius:5px;"></div>
-      </div>
-    </td>
-    <td>5%</td>
-  </tr>
-  <tr>
-    <td>🌐 JavaScript</td>
-    <td>
-      <div style="background-color:#444;width:200px;height:10px;border-radius:5px;">
-        <div style="background-color:#FFEB3B;width:15%;height:100%;border-radius:5px;"></div>
-      </div>
-    </td>
-    <td>15%</td>
-  </tr>
-</table>
+<h4>🐍 Python (50%)</h4>
+<div style="background-color:#ddd; border-radius:5px; width:100%; max-width:400px;">
+  <div style="width:50%; background-color:#3572A5; color:white; padding:4px 0; text-align:center; border-radius:5px;">50%</div>
+</div>
+
+<h4>🐘 PHP (30%)</h4>
+<div style="background-color:#ddd; border-radius:5px; width:100%; max-width:400px;">
+  <div style="width:30%; background-color:#8892BE; color:white; padding:4px 0; text-align:center; border-radius:5px;">30%</div>
+</div>
+
+<h4>☕ Java (5%)</h4>
+<div style="background-color:#ddd; border-radius:5px; width:100%; max-width:400px;">
+  <div style="width:5%; background-color:#b07219; color:white; padding:4px 0; text-align:center; border-radius:5px;">5%</div>
+</div>
+
+<h4>🌐 JavaScript (15%)</h4>
+<div style="background-color:#ddd; border-radius:5px; width:100%; max-width:400px;">
+  <div style="width:15%; background-color:#f1e05a; color:black; padding:4px 0; text-align:center; border-radius:5px;">15%</div>
+</div>
 
 ### 📊 GitHub Statistik
 
