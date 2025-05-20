@@ -1,10 +1,6 @@
 ## 👋 Hallo semua!
 
-Perkenalkan, saya **Alvina Aulia Nisa**.<br>
-Saya adalah mahasiswa **Jurusan Bisnis dan Informatika** di **Politeknik Negeri Banyuwangi**.<br>
-Saat ini saya sedang berusaha menjadi developer yang berkualitas melalui program **Coding Camp by DBS Foundation** bersama Dicoding.
-
-Saya memiliki ketertarikan pada bidang **Machine Learning** dan cukup mahir dalam **Web Development**.
+Perkenalkan, saya **Alvina Aulia Nisa** dan saya adalah mahasiswa **Jurusan Bisnis dan Informatika** di **Politeknik Negeri Banyuwangi**. Saat ini saya sedang berusaha menjadi developer yang berkualitas melalui program **Coding Camp by DBS Foundation** bersama Dicoding dengan mengambil learning path Machine Learning, dengan harapan saya dapat menjadi data scientist dan machine learning engineer yang berkualitas. Saya sangat tertarik dengan dunia AI seperti Machine Learning dan Deep Learning, karena menurut saya itu hal yang sangat luar biasa jika saya dapat menjadi bagian dari orang-orang yang melakukan perubahan dan perkembangan dalam dunia teknologi. Meskipun saya fokus dalam mempelajari Machine Learning, namun saya terbilang cukup mahir dalam **Web Development** dengan menggunakan bahasa pemrograman PHP dan framework Laravel.
 
 ---
 
