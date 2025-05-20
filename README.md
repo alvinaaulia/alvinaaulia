@@ -2,8 +2,17 @@
 
 Perkenalkan nama saya Alvina Aulia Nisa.<br>
 Saya adalah seorang mahasiswa Jurusan Bisnis dan Informatika di Politeknik Negeri Banyuwangi.<br>
-Saat ini sayang sedang berusaha untuk menjadi developer yang berkualitas dengan mengikuti <br>
-program Coding Camp by DBS Foundation dari Dicoding.
+Saat ini saya sedang berusaha untuk menjadi developer yang berkualitas dengan mengikuti <br>
+program Coding Camp by DBS Foundation dari Dicoding.<br><br>
+
+Saya memiliki ketertarikan kuat di bidang teknologi dan sedang fokus mendalami **Machine Learning**.<br>
+Meskipun begitu, saya juga cukup mahir dalam **Web Developing**.<br><br>
+
+### Kemampuan Bahasa Pemrograman:
+- 🐍 Python: **50%**
+- 🐘 PHP: **30%**
+- ☕ Java: **5%**
+- 🌐 JavaScript: **15%**
 
 <p align="left">
 <a href="https://github.com/alvinaaulia">
@@ -11,18 +20,3 @@ program Coding Camp by DBS Foundation dari Dicoding.
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=penuliscode&layout=compact&theme=algolia"/>
 </a>
 </p>
-
-<!--
-**alvinaaulia/alvinaaulia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
