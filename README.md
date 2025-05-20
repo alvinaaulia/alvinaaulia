@@ -10,16 +10,16 @@ Saya memiliki ketertarikan pada bidang **Machine Learning** dan cukup mahir dala
 
 ### 🧠 Kemampuan Bahasa Pemrograman
 
-**🐍 Python**
+#### <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="24"/> Python - 50%
 ![Python](https://geps.dev/progress/50)
 
-**🐘 PHP**
+#### <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="24"/> PHP - 30%
 ![PHP](https://geps.dev/progress/30)
 
-**☕ Java**
+#### <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="24"/> Java - 5%
 ![Java](https://geps.dev/progress/5)
 
-**🌐 JavaScript**
+#### <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="24"/> JavaScript - 15%
 ![JavaScript](https://geps.dev/progress/15)
 
 ### 📊 GitHub Statistik
