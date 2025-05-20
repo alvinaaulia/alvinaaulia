@@ -10,17 +10,24 @@ Saya memiliki ketertarikan pada bidang **Machine Learning** dan cukup mahir dala
 
 ### 🧠 Kemampuan Bahasa Pemrograman
 
-#### <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="24"/> Python - 50%
-![Python](https://geps.dev/progress/50)
-
-#### <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="24"/> PHP - 30%
-![PHP](https://geps.dev/progress/30)
-
-#### <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="24"/> Java - 5%
-![Java](https://geps.dev/progress/5)
-
-#### <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="24"/> JavaScript - 15%
-![JavaScript](https://geps.dev/progress/15)
+<table>
+  <tr>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="24"/> Python</td>
+    <td><img src="https://geps.dev/progress/50" alt="Python 50%" width="250"/></td>
+  </tr>
+  <tr>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="24"/> PHP</td>
+    <td><img src="https://geps.dev/progress/30" alt="PHP 30%" width="250"/></td>
+  </tr>
+  <tr>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="24"/> Java</td>
+    <td><img src="https://geps.dev/progress/5" alt="Java 5%" width="250"/></td>
+  </tr>
+  <tr>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="24"/> JavaScript</td>
+    <td><img src="https://geps.dev/progress/15" alt="JavaScript 15%" width="250"/></td>
+  </tr>
+</table>
 
 ### 📊 GitHub Statistik
 
