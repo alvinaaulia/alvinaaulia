@@ -8,15 +8,32 @@ program Coding Camp by DBS Foundation dari Dicoding.<br><br>
 Saya memiliki ketertarikan kuat di bidang teknologi dan sedang fokus mendalami **Machine Learning**.<br>
 Meskipun begitu, saya juga cukup mahir dalam **Web Developing**.<br><br>
 
-### Kemampuan Bahasa Pemrograman:
+---
+
+### 📊 My GitHub Statistics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=penuliscode&show_icons=true&theme=tokyonight&rank_icon=github" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=penuliscode&layout=compact&theme=tokyonight&hide_progress=false&langs_count=5" alt="Top Languages" />
+</p>
+
+---
+
+### 💻 My Programming Skills (Based on Experience)
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,php,java,javascript&theme=dark" />
+</p>
+
 - 🐍 Python: **50%**
 - 🐘 PHP: **30%**
 - ☕ Java: **5%**
 - 🌐 JavaScript: **15%**
 
-<p align="left">
-<a href="https://github.com/alvinaaulia">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=penuliscode&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=penuliscode&layout=compact&theme=algolia"/>
-</a>
+---
+
+### 🏆 GitHub Profile Trophy
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=penuliscode&theme=darkhub&no-frame=true&no-bg=true&margin-w=10" />
 </p>
