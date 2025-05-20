@@ -8,27 +8,19 @@ Saya memiliki ketertarikan pada bidang **Machine Learning** dan cukup mahir dala
 
 ---
 
-### 🚀 Kemampuan Bahasa Pemrograman (berdasarkan pengalaman)
+### 🧠 Kemampuan Bahasa Pemrograman
 
-<p><strong>🐍 Python</strong></p>
-<div style="background: #e1e4e8; width: 100%; max-width: 400px;">
-  <div style="background: #3572A5; width: 50%; color: white; padding: 3px;">50%</div>
-</div>
+**🐍 Python**
+![Python](https://geps.dev/progress/50)
 
-<p><strong>🐘 PHP</strong></p>
-<div style="background: #e1e4e8; width: 100%; max-width: 400px;">
-  <div style="background: #8892BE; width: 30%; color: white; padding: 3px;">30%</div>
-</div>
+**🐘 PHP**
+![PHP](https://geps.dev/progress/30)
 
-<p><strong>☕ Java</strong></p>
-<div style="background: #e1e4e8; width: 100%; max-width: 400px;">
-  <div style="background: #b07219; width: 5%; color: white; padding: 3px;">5%</div>
-</div>
+**☕ Java**
+![Java](https://geps.dev/progress/5)
 
-<p><strong>🌐 JavaScript</strong></p>
-<div style="background: #e1e4e8; width: 100%; max-width: 400px;">
-  <div style="background: #f1e05a; width: 15%; color: black; padding: 3px;">15%</div>
-</div>
+**🌐 JavaScript**
+![JavaScript](https://geps.dev/progress/15)
 
 ### 📊 GitHub Statistik
 
