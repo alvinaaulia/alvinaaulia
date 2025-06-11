@@ -4,14 +4,14 @@ Hey mate! I’m Alvina Aulia Nisa and my expertise lies in data analysis and pro
 
 ---
 
-### 📊 GitHub Statistik
+### 📊 GitHub Statistics
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=alvinaaulia&show_icons=true&theme=tokyonight&rank_icon=github" />
+  <img width="100%" src="https://github-readme-stats.vercel.app/api?username=alvinaaulia&show_icons=true&theme=tokyonight&rank_icon=github" />
 </p>
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alvinaaulia&layout=compact&theme=tokyonight&hide_progress=false&langs_count=5" />
+  <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alvinaaulia&layout=compact&theme=tokyonight&hide_progress=false&langs_count=5" />
 </p>
 
 ---
