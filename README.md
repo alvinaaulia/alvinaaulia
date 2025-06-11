@@ -1,6 +1,6 @@
-## 👋 Hallo semua!
+## Introduction
 
-Perkenalkan, saya **Alvina Aulia Nisa** dan saya adalah mahasiswa **Jurusan Bisnis dan Informatika** di **Politeknik Negeri Banyuwangi**. Saat ini saya sedang berusaha menjadi developer yang berkualitas melalui program **Coding Camp by DBS Foundation** bersama Dicoding dengan mengambil learning path **Machine Learning**, dengan harapan saya dapat menjadi data scientist dan machine learning engineer yang berkualitas. Saya sangat tertarik dengan dunia AI seperti Machine Learning dan Deep Learning, karena menurut saya itu hal yang sangat luar biasa jika saya dapat menjadi bagian dari orang-orang yang melakukan perubahan dan perkembangan dalam dunia teknologi. Meskipun saya fokus dalam mempelajari Machine Learning, namun saya terbilang cukup mahir dalam **Web Development** dengan menggunakan bahasa pemrograman PHP dan framework Laravel.
+Hey mate! I’m Alvina Aulia Nisa and my expertise lies in data analysis and processing data using machine learning models. I’m deeply passionate about the world of AI, particularly Machine Learning and Deep Learning, as I believe it’s truly remarkable to be part of the community driving change and progress in technology. While my primary focus is on mastering Machine Learning, I’m also quite proficient in Web Development using PHP and the Laravel framework.
 
 ---
 
@@ -8,6 +8,9 @@ Perkenalkan, saya **Alvina Aulia Nisa** dan saya adalah mahasiswa **Jurusan Bisn
 
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=alvinaaulia&show_icons=true&theme=tokyonight&rank_icon=github" />
+</p>
+
+<p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alvinaaulia&layout=compact&theme=tokyonight&hide_progress=false&langs_count=5" />
 </p>
 
