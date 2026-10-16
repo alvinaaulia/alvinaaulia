@@ -24,7 +24,7 @@ Hi! I’m Alvina Aulia Nisa, a web developer with a strong interest in building 
 ### 🏆 GitHub Trophy
 
 <p align="center">
-  <img src="./trophy.svg" alt="GitHub Trophy" />
+  <img src="./trophy.svg" alt="GitHub Trophy" width="88%" />
 </p>
 
 ---
