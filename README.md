@@ -14,7 +14,7 @@ Hi! I’m Alvina Aulia Nisa, a web developer with a strong interest in building 
   />
   <img
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=alvinaaulia&layout=compact&theme=tokyonight&langs_count=5"
-    width="40%"
+    width="38%"
     height="250"
   />
 </p>
