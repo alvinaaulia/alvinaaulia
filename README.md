@@ -7,11 +7,8 @@ Hi! I’m Alvina Aulia Nisa, a web developer with a strong interest in building 
 ### 📊 GitHub Statistics
 
 <p align="center">
-  <img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=alvinaaulia&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img height="140" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alvinaaulia&layout=compact&theme=tokyonight&langs_count=5" />
+  <img width="60%" src="https://github-readme-streak-stats.herokuapp.com/?user=alvinaaulia&theme=tokyonight" />
+  <img width="35%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alvinaaulia&layout=compact&theme=tokyonight&langs_count=5" />
 </p>
 
 ---
