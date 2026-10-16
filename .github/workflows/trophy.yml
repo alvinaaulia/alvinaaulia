@@ -21,31 +21,18 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v4
 
-      - name: Generate trophy SVG
-        uses: Erik-Donath/github-profile-trophy@feature/generate-svg
+      - name: Generate trophy card
+        uses: soulteary/github-profile-trophy-action@v1.0.0
         with:
-          username: alvinaaulia
+          options: "username=alvinaaulia&theme=darkhub&column=7&margin-w=15&no-frame=true&no-bg=true"
+          path: trophy.svg
           token: ${{ secrets.GITHUB_TOKEN }}
-          file: trophy.svg
-          theme: darkhub
-          no-frame: "true"
-          no-background: "true"
 
       - name: Commit trophy SVG
         run: |
-          if [ ! -f trophy.svg ]; then
-            echo "trophy.svg was not generated"
-            exit 1
-          fi
-
+          test -f trophy.svg
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add trophy.svg
-
-          if git diff --cached --quiet; then
-            echo "No trophy changes to commit"
-            exit 0
-          fi
-
-          git commit -m "chore: update GitHub trophy"
+          git diff --cached --quiet || git commit -m "chore: update GitHub trophy"
           git push
