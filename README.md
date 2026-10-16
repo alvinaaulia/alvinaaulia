@@ -1,17 +1,17 @@
 ## Introduction
 
-Hey mate! I’m Alvina Aulia Nisa and my expertise lies in data analysis and processing data using machine learning models. I’m deeply passionate about the world of AI, particularly Machine Learning and Deep Learning, as I believe it’s truly remarkable to be part of the community driving change and progress in technology. While my primary focus is on mastering Machine Learning, I’m also quite proficient in Web Development using PHP and the Laravel framework.
+Hi! I’m Alvina Aulia Nisa, a web developer with a strong interest in building practical and customized web applications. I mainly work with PHP, Laravel, JavaScript, databases, and modern frontend tools to develop everything from interactive websites to systems with custom business logic, dashboards, authentication, payment workflows, and order management. I also have a background and continuing interest in data analysis, machine learning, and artificial intelligence, which has shaped the way I approach problem-solving and system development. This GitHub is where I keep my personal projects, experiments, and learning work. For freelance, client, and professional web development projects, you can also find my work at github.com/softmitend.
 
 ---
 
 ### 📊 GitHub Statistics
 
 <p align="center">
-  <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=alvinaaulia&theme=tokyonight&hide_progress=false&langs_count=5" />
+  <img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=alvinaaulia&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alvinaaulia&layout=compact&theme=tokyonight&hide_progress=false&langs_count=5" />
+  <img height="140" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alvinaaulia&layout=compact&theme=tokyonight&langs_count=5" />
 </p>
 
 ---
@@ -19,7 +19,7 @@ Hey mate! I’m Alvina Aulia Nisa and my expertise lies in data analysis and pro
 ### 🏆 GitHub Trophy
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=alvinaaulia&theme=darkhub&no-frame=true&no-bg=true&margin-w=15" />
+  <img src="./trophy.svg" alt="GitHub Trophy" />
 </p>
 
 ---
