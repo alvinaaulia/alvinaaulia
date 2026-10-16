@@ -24,7 +24,7 @@ jobs:
       - name: Generate trophy card
         uses: soulteary/github-profile-trophy-action@v1.0.0
         with:
-          options: "username=alvinaaulia&theme=darkhub&column=7&margin-w=15&no-frame=true&no-bg=true"
+          options: "username=alvinaaulia&theme=darkhub&column=8&margin-w=8&margin-h=0&no-frame=true&no-bg=true"
           path: trophy.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
