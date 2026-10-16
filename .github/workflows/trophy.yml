@@ -2,30 +2,50 @@ name: Update GitHub Trophy
 
 on:
   workflow_dispatch:
+  push:
+    branches:
+      - main
+    paths:
+      - ".github/workflows/trophy.yml"
   schedule:
     - cron: "0 0 * * 0"
+
+permissions:
+  contents: write
 
 jobs:
   trophy:
     runs-on: ubuntu-latest
 
-    permissions:
-      contents: write
-
     steps:
-      - uses: actions/checkout@v4
+      - name: Checkout repository
+        uses: actions/checkout@v4
 
-      - name: Generate trophy
+      - name: Generate trophy SVG
         uses: Erik-Donath/github-profile-trophy@feature/generate-svg
         with:
           username: alvinaaulia
-          output_path: trophy.svg
           token: ${{ secrets.GITHUB_TOKEN }}
+          file: trophy.svg
+          theme: darkhub
+          no-frame: "true"
+          no-background: "true"
 
-      - name: Commit trophy
+      - name: Commit trophy SVG
         run: |
+          if [ ! -f trophy.svg ]; then
+            echo "trophy.svg was not generated"
+            exit 1
+          fi
+
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add trophy.svg
-          git diff --cached --quiet || git commit -m "Update GitHub trophy"
+
+          if git diff --cached --quiet; then
+            echo "No trophy changes to commit"
+            exit 0
+          fi
+
+          git commit -m "chore: update GitHub trophy"
           git push
