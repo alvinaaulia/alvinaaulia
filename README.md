@@ -8,12 +8,14 @@ Hi! I’m Alvina Aulia Nisa, a web developer with a strong interest in building 
 
 <p align="center">
   <img
-    height="190"
     src="https://github-readme-streak-stats.herokuapp.com/?user=alvinaaulia&theme=tokyonight"
+    width="63%"
+    height="200"
   />
   <img
-    height="190"
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=alvinaaulia&layout=compact&theme=tokyonight&langs_count=5"
+    width="35%"
+    height="200"
   />
 </p>
 
